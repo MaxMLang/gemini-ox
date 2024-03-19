@@ -42,11 +42,11 @@ For common questions, such as adding an institution logo or customizing the colo
 The Oxford version includes several color themes suitable for various types of presentations:
 
 * `gemini` (default)
-* `oxford` (customized for University of Oxford branding)
+* `ox` (customized for University of Oxford branding)
 * `mit`
 * `labsix`
 
-You're encouraged to create your own color theme or use the `oxford` theme for presentations associated with the University.
+You're encouraged to create your own color theme or use the `ox` theme for presentations associated with the University.
 
 ### Oxford Theme
 
