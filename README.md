@@ -48,14 +48,6 @@ The Oxford version includes several color themes suitable for various types of p
 
 You're encouraged to create your own color theme or use the `ox` theme for presentations associated with the University.
 
-### Oxford Theme
-
-<p align="center">
-<a href="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-oxford.pdf">
-<img src="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-oxford-small.png">
-</a>
-</p>
-
 ## Design Goals
 
 * **Minimal**: Focuses on readability and simplicity.
