@@ -1,4 +1,4 @@
-# Gemini Oxford Version [![Build Status](https://github.com/anishathalye/gemini/workflows/CI/badge.svg)](https://github.com/anishathalye/gemini/actions?query=workflow%3ACI)
+# Gemini Unofficial Oxford Version [![Build Status](https://github.com/anishathalye/gemini/workflows/CI/badge.svg)](https://github.com/anishathalye/gemini/actions?query=workflow%3ACI)
 
 This is an unofficial adaptation of the modern LaTeX [beamerposter] theme, Gemini, tailored for the University of Oxford.
 
